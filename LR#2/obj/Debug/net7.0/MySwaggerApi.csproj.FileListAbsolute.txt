@@ -1,0 +1,7 @@
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.csproj.AssemblyReference.cache
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.AssemblyInfoInputs.cache
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.AssemblyInfo.cs
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.csproj.CoreCompileInputs.cache
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Svetl\MySwaggerApi\obj\Debug\net7.0\MySwaggerApi.MvcApplicationPartsAssemblyInfo.cache
